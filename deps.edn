@@ -1,0 +1,8 @@
+{:aliases {:repl
+           {:extra-paths []
+            :main-opts ["-m" "landing.repl"]
+            cider/cider-nrepl #:mvn{:version "0.30.0"}
+            nrepl/nrepl #:mvn{:version "1.0.0"}
+            refactor-nrepl/refactor-nrepl #:mvn{:version "3.6.0"}}}
+ :deps {}
+ :paths ["src"]}
