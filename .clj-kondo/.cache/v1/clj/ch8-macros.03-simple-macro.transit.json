@@ -1,1 +1,0 @@
-["^ ","~$do-until",["^ ","~:row",5,"~:col",1,"~:macro",true,"~:varargs-min-arity",0,"~:name","^0","~:ns","~$ch8-macros.03-simple-macro","~:top-ns","^7"],"~$do-until-test",["^ ","^1",13,"^2",1,"~:fixed-arities",["~#set",[0]],"^5","^9","^6","^7","^8","^7"],"~:filename","/Users/anthonycaumond/Dev/hephaistox/macro-test/src/ch8_macros/03_simple_macro.clj"]

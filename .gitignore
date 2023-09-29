@@ -1,0 +1,21 @@
+# Temporary files
+**/.DS_Store
+**/.cpcache/
+**/.cache
+**/*.class
+
+# Leiningen
+/.lein-*
+
+# Kondo
+# The .clj-kondo/config.edn is where we setup kondo.
+# It is part of CICD, It is important to keep that file.
+**/.clj-kondo/.cache
+
+#intellij
+.idea/
+**.iml
+**/**.iml
+
+#tmp-directory
+tmp
